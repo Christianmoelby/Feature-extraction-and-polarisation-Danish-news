@@ -75,7 +75,7 @@ https://github.com/Christianmoelby/Feature-extraction-Danish-news
 
 We reserve the right to continuously update and maintain the repository.
 
-## ✉️ Contact: 
+## ✉️ Contact Information
 Christian Andersen Mølby: Christianmoelby@gmail.com
 
 Knud Anton Højmark Bremholm: Knud.bremholm@gmail.com
