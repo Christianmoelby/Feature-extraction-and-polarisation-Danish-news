@@ -6,6 +6,8 @@ Extended with practical implementation of Maximum Likelihood Estimator and Leave
 
 The code is developed in relation to the paper Media-Polarisation in Denmark [here](https://github.com/Christianmoelby/Feature-extraction-Danish-news/blob/main/Media-Polarisation%20in%20Denmark.pdf). The paper contains appropriate citations of the components and on details of e.g. the dataset of faces to recognise. 
 
+The main econometric findings are summarized [here](https://github.com/Christianmoelby/Feature-extraction-and-polarisation-Danish-news/blob/f2c1d00a24acbd1d49d3f272b9a12f6f79a66c1c/ARTICLE%20DRAFT%20Media%20Polarisation%20in%20Denmark.pdf). It is a short-form version of the original thesis condensed to article length. It focuses on our methodology and econometric framework and thus it does not include descriptive insights into the formation of polarisation in Denmark and it is limited in its study of the drivers of polarisation. 
+
 Using the processes below we have compiled a dataset of all relevant news articles and images from DR.dk and TV2.dk from 2015-2024, including all features listed above. Please reach out to get access to this dataset. 
 
 ## 🚀 Project Overview
